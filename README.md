@@ -6,6 +6,8 @@ This is a rough trial of using the Google maps package (Gmap) based on [this blo
 
 ![./assets/a.png](./assets/a.png)
 
+Or a video - [https://youtu.be/0F9-HT2Cyxo](https://youtu.be/0F9-HT2Cyxo)
+
 <br/>
 
 ## References
@@ -26,6 +28,8 @@ This is a rough trial of using the Google maps package (Gmap) based on [this blo
 - Useful web services
     - Unix time converter: https://www.epochconverter.com/hex
     - Reverse geocoding: https://developers.google.com/maps/documentation/javascript/examples/geocoding-reverse
+
+<br/>
 
 ## Tips
 
